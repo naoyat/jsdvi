@@ -1,4 +1,5 @@
 jsdvi
 =====
 
-NOTE: jsdvi has been renamed to dvi.js
+_jsdvi_ has been renamed to [dvi.js](http://github.com/naoyat/dvi.js).
+
